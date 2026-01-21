@@ -20,14 +20,14 @@ This guide provides detailed instructions for running the semiconductor analysis
 
 #### Method A: Direct Link (After Repository is Public)
 
-1. Click this badge: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/post-silicon-gpu-analysis/blob/main/semiconductor_analysis_cpu_vs_gpu.ipynb)
+1. Click this badge: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rajendarmuddasani/post-silicon-gpu-analysis/blob/main/semiconductor_analysis_cpu_vs_gpu.ipynb)
 2. The notebook will open directly in Colab
 
 #### Method B: Manual Import
 
 1. In Google Colab, click **File** → **Open notebook**
 2. Click the **GitHub** tab
-3. Enter the repository URL: `https://github.com/YOUR_USERNAME/post-silicon-gpu-analysis`
+3. Enter the repository URL: `https://github.com/rajendarmuddasani/post-silicon-gpu-analysis`
 4. Press Enter or click the search icon
 5. Click on `semiconductor_analysis_cpu_vs_gpu.ipynb` from the list
 
@@ -64,7 +64,7 @@ Add and run this cell at the beginning of the notebook:
 
 ```python
 # Clone the repository
-!git clone https://github.com/YOUR_USERNAME/post-silicon-gpu-analysis.git
+!git clone https://github.com/rajendarmuddasani/post-silicon-gpu-analysis.git
 
 # Change to the repository directory
 %cd post-silicon-gpu-analysis

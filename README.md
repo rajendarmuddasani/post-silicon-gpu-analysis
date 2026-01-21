@@ -45,9 +45,7 @@ The synthetic dataset simulates realistic post-silicon semiconductor test data:
 
 Click the badge below to open the notebook directly in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/post-silicon-gpu-analysis/blob/main/semiconductor_analysis_cpu_vs_gpu.ipynb)
-
-*Note: Replace `YOUR_USERNAME` with your GitHub username after pushing the repository.*
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rajendarmuddasani/post-silicon-gpu-analysis/blob/main/semiconductor_analysis_cpu_vs_gpu.ipynb)
 
 Or manually:
 1. Go to [Google Colab](https://colab.research.google.com/)
@@ -80,7 +78,7 @@ for filename in uploaded.keys():
 Or clone the entire repository:
 
 ```python
-!git clone https://github.com/YOUR_USERNAME/post-silicon-gpu-analysis.git
+!git clone https://github.com/rajendarmuddasani/post-silicon-gpu-analysis.git
 %cd post-silicon-gpu-analysis
 ```
 
